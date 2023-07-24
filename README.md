@@ -1,3 +1,3 @@
 # public
 
-Publically accessibly file to test connection from Squiz Matrix CMS
+Publically accessibly repo to share files with Squiz Matrix CMS
