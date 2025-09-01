@@ -30,7 +30,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/barnard-island"
+    "park_url": "https://parks.qld.gov.au/parks/barnard-island"
   },
   {
     "estatename": "South Stradbroke Island Conservation Park",
@@ -41,7 +41,7 @@
     ],
     "tourism_region": "Gold Coast",
     "admin_region": "Coastal and Islands",
-    "park_url": "https://parks.desi.qld.gov.au/parks/south-stradbroke-island"
+    "park_url": "https://parks.qld.gov.au/parks/south-stradbroke-island"
   },
   {
     "estatename": "Halifax Bay Wetlands National Park",
@@ -52,7 +52,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/halifax-bay"
+    "park_url": "https://parks.qld.gov.au/parks/halifax-bay"
   },
   {
     "estatename": "Reinke Scrub Conservation Park",
@@ -85,7 +85,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/smithfield"
+    "park_url": "https://parks.qld.gov.au/parks/smithfield"
   },
   {
     "estatename": "Bustard Head Conservation Park",
@@ -118,7 +118,7 @@
     ],
     "tourism_region": "Gold Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tamborine"
+    "park_url": "https://parks.qld.gov.au/parks/tamborine"
   },
   {
     "estatename": "Littabella Conservation Park",
@@ -162,7 +162,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/magnetic-island"
+    "park_url": "https://parks.qld.gov.au/parks/magnetic-island"
   },
   {
     "estatename": "Denison State Forest",
@@ -184,7 +184,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/goold-island"
+    "park_url": "https://parks.qld.gov.au/parks/goold-island"
   },
   {
     "estatename": "Eungella National Park",
@@ -195,7 +195,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/eumundi-conservation-park"
+    "park_url": "https://parks.qld.gov.au/parks/eumundi-conservation-park"
   },
   {
     "estatename": "Baga National Park",
@@ -206,7 +206,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/baga"
+    "park_url": "https://parks.qld.gov.au/parks/baga"
   },
   {
     "estatename": "Mooloolah (Marie Higgs) Conservation Park",
@@ -228,7 +228,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/white-blow"
+    "park_url": "https://parks.qld.gov.au/parks/white-blow"
   },
   {
     "estatename": "The Bluff State Forest",
@@ -250,7 +250,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/fitzroy-island"
+    "park_url": "https://parks.qld.gov.au/parks/fitzroy-island"
   },
   {
     "estatename": "Calingunee State Forest 1",
@@ -316,7 +316,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/wild-cattle-island"
+    "park_url": "https://parks.qld.gov.au/parks/wild-cattle-island"
   },
   {
     "estatename": "Fairlies Knob National Park",
@@ -360,7 +360,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/green-island"
+    "park_url": "https://parks.qld.gov.au/parks/green-island"
   },
   {
     "estatename": "Etty Bay Road Conservation Park",
@@ -459,7 +459,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mouth-of-baffle-creek"
+    "park_url": "https://parks.qld.gov.au/parks/mouth-of-baffle-creek"
   },
   {
     "estatename": "Devine State Forest",
@@ -624,7 +624,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/crediton"
+    "park_url": "https://parks.qld.gov.au/parks/crediton"
   },
   {
     "estatename": "Yalebone State Forest 2",
@@ -668,7 +668,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/castle-tower"
+    "park_url": "https://parks.qld.gov.au/parks/castle-tower"
   },
   {
     "estatename": "Orkadilla State Forest",
@@ -734,7 +734,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+    "park_url": "https://parks.qld.gov.au/parks/macalister-range"
   },
   {
     "estatename": "Baddow Island Conservation Park",
@@ -778,7 +778,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/homevale"
+    "park_url": "https://parks.qld.gov.au/parks/homevale"
   },
   {
     "estatename": "Goldsborough Valley State Forest",
@@ -800,7 +800,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/hallorans-hill"
+    "park_url": "https://parks.qld.gov.au/parks/hallorans-hill"
   },
   {
     "estatename": "Irongate Conservation Park",
@@ -822,7 +822,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Yamarrinh Wachangan Islands (Denham Group) National Park (Cape York Peninsula Aboriginal Land)",
@@ -866,7 +866,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/plunkett-wickham"
+    "park_url": "https://parks.qld.gov.au/parks/plunkett-wickham"
   },
   {
     "estatename": "D'Aguilar State Forest",
@@ -888,7 +888,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/keppel-bay-islands"
+    "park_url": "https://parks.qld.gov.au/parks/keppel-bay-islands"
   },
   {
     "estatename": "Pumicestone National Park",
@@ -943,7 +943,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/porcupine-gorge"
+    "park_url": "https://parks.qld.gov.au/parks/porcupine-gorge"
   },
   {
     "estatename": "Palmgrove National Park (scientific)",
@@ -1031,7 +1031,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/lake-murphy"
+    "park_url": "https://parks.qld.gov.au/parks/lake-murphy"
   },
   {
     "estatename": "Karee State Forest",
@@ -1086,7 +1086,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/woowoonga"
+    "park_url": "https://parks.qld.gov.au/parks/woowoonga"
   },
   {
     "estatename": "Toolara State Forest",
@@ -1119,7 +1119,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/grey-peaks"
+    "park_url": "https://parks.qld.gov.au/parks/grey-peaks"
   },
   {
     "estatename": "Narkoola National Park",
@@ -1196,7 +1196,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
+    "park_url": "https://parks.qld.gov.au/parks/barron-gorge"
   },
   {
     "estatename": "Reliance Creek National Park",
@@ -1218,7 +1218,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
+    "park_url": "https://parks.qld.gov.au/parks/mount-etna-caves"
   },
   {
     "estatename": "Beninbi State Forest",
@@ -1262,7 +1262,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Daintree National Park",
@@ -1273,7 +1273,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/daintree"
+    "park_url": "https://parks.qld.gov.au/parks/daintree"
   },
   {
     "estatename": "Koombooloomba National Park",
@@ -1284,7 +1284,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Binkey State Forest 2",
@@ -1361,7 +1361,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/girraween"
+    "park_url": "https://parks.qld.gov.au/parks/girraween"
   },
   {
     "estatename": "Causeway Lake Conservation Park",
@@ -1416,7 +1416,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bulleringa"
+    "park_url": "https://parks.qld.gov.au/parks/bulleringa"
   },
   {
     "estatename": "Bellthorpe National Park",
@@ -1427,7 +1427,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bellthorpe"
+    "park_url": "https://parks.qld.gov.au/parks/bellthorpe"
   },
   {
     "estatename": "Boompa State Forest",
@@ -1460,7 +1460,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/speewah"
+    "park_url": "https://parks.qld.gov.au/parks/speewah"
   },
   {
     "estatename": "Hope Islands National Park (Cape York Peninsula Aboriginal Land)",
@@ -1493,7 +1493,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
+    "park_url": "https://parks.qld.gov.au/parks/kuranda-mowbray"
   },
   {
     "estatename": "Tenthill Conservation Park",
@@ -1515,7 +1515,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-melville"
+    "park_url": "https://parks.qld.gov.au/parks/cape-melville"
   },
   {
     "estatename": "Mount Archer National Park",
@@ -1526,7 +1526,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mount-archer"
+    "park_url": "https://parks.qld.gov.au/parks/mount-archer"
   },
   {
     "estatename": "Cape Palmerston National Park",
@@ -1537,7 +1537,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-palmerston"
+    "park_url": "https://parks.qld.gov.au/parks/cape-palmerston"
   },
   {
     "estatename": "O'Connell State Forest",
@@ -1581,7 +1581,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/brooyar"
+    "park_url": "https://parks.qld.gov.au/parks/brooyar"
   },
   {
     "estatename": "Combo Conservation Park 1",
@@ -1592,7 +1592,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Dangore State Forest",
@@ -1614,7 +1614,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/boat-mountain"
+    "park_url": "https://parks.qld.gov.au/parks/boat-mountain"
   },
   {
     "estatename": "Noosa National Park",
@@ -1625,7 +1625,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/noosa"
+    "park_url": "https://parks.qld.gov.au/parks/noosa"
   },
   {
     "estatename": "Ulam Range State Forest",
@@ -1680,7 +1680,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/capricornia-cays"
+    "park_url": "https://parks.qld.gov.au/parks/capricornia-cays"
   },
   {
     "estatename": "Currajong State Forest",
@@ -1735,7 +1735,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/byfield"
+    "park_url": "https://parks.qld.gov.au/parks/byfield"
   },
   {
     "estatename": "Hallett State Forest",
@@ -1757,7 +1757,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/moggill"
+    "park_url": "https://parks.qld.gov.au/parks/moggill"
   },
   {
     "estatename": "Epsom State Forest 3",
@@ -1801,7 +1801,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bunyaville"
+    "park_url": "https://parks.qld.gov.au/parks/bunyaville"
   },
   {
     "estatename": "Endeavour River National Park",
@@ -1812,7 +1812,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Mount O'Connell National Park",
@@ -1867,7 +1867,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bromley"
+    "park_url": "https://parks.qld.gov.au/parks/bromley"
   },
   {
     "estatename": "Glen Rock State Forest",
@@ -1878,7 +1878,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/main-range-cp"
+    "park_url": "https://parks.qld.gov.au/parks/main-range-cp"
   },
   {
     "estatename": "Turtle Group National Park",
@@ -1889,7 +1889,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Callide Timber Reserve",
@@ -1911,7 +1911,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "Coastal and Islands",
-    "park_url": "https://parks.desi.qld.gov.au/parks/fort-lytton"
+    "park_url": "https://parks.qld.gov.au/parks/fort-lytton"
   },
   {
     "estatename": "Tarong National Park",
@@ -1933,7 +1933,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/eurimbula"
+    "park_url": "https://parks.qld.gov.au/parks/eurimbula"
   },
   {
     "estatename": "Mount Mee State Forest",
@@ -1955,7 +1955,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/beerburrum-beerwah"
+    "park_url": "https://parks.qld.gov.au/parks/beerburrum-beerwah"
   },
   {
     "estatename": "Millstream Conservation Park",
@@ -1977,7 +1977,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Middle Percy Island Conservation Park",
@@ -2043,7 +2043,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/blackwood"
+    "park_url": "https://parks.qld.gov.au/parks/blackwood"
   },
   {
     "estatename": "Clemant State Forest",
@@ -2065,7 +2065,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tolderodden"
+    "park_url": "https://parks.qld.gov.au/parks/tolderodden"
   },
   {
     "estatename": "Mundell State Forest",
@@ -2098,7 +2098,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/imbil"
+    "park_url": "https://parks.qld.gov.au/parks/imbil"
   },
   {
     "estatename": "Don River State Forest",
@@ -2120,7 +2120,7 @@
     ],
     "tourism_region": "Gold Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/nerang"
+    "park_url": "https://parks.qld.gov.au/parks/nerang"
   },
   {
     "estatename": "Bringalily State Forest",
@@ -2142,7 +2142,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/boodjamulla"
+    "park_url": "https://parks.qld.gov.au/parks/boodjamulla"
   },
   {
     "estatename": "Oyala Thumotang National Park (Cape York Peninsula Aboriginal Land)",
@@ -2153,7 +2153,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Lockyer National Park",
@@ -2164,7 +2164,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/lockyer"
+    "park_url": "https://parks.qld.gov.au/parks/lockyer"
   },
   {
     "estatename": "Mount Toby State Forest",
@@ -2197,7 +2197,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/alwal"
+    "park_url": "https://parks.qld.gov.au/parks/alwal"
   },
   {
     "estatename": "Main Range National Park",
@@ -2208,7 +2208,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/main-range"
+    "park_url": "https://parks.qld.gov.au/parks/main-range"
   },
   {
     "estatename": "Proserpine State Forest",
@@ -2241,7 +2241,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mouth-of-baffle-creek"
+    "park_url": "https://parks.qld.gov.au/parks/mouth-of-baffle-creek"
   },
   {
     "estatename": "Russell River National Park",
@@ -2252,7 +2252,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/russell-river"
+    "park_url": "https://parks.qld.gov.au/parks/russell-river"
   },
   {
     "estatename": "Wrattens Conservation Park",
@@ -2285,7 +2285,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/dryander"
+    "park_url": "https://parks.qld.gov.au/parks/dryander"
   },
   {
     "estatename": "Endeavour River Resources Reserve",
@@ -2351,7 +2351,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tregole"
+    "park_url": "https://parks.qld.gov.au/parks/tregole"
   },
   {
     "estatename": "Norton State Forest",
@@ -2395,7 +2395,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/eubenangee-swamp"
+    "park_url": "https://parks.qld.gov.au/parks/eubenangee-swamp"
   },
   {
     "estatename": "Arthurs Bluff State Forest",
@@ -2439,7 +2439,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/coominglah"
+    "park_url": "https://parks.qld.gov.au/parks/coominglah"
   },
   {
     "estatename": "Degilbo Timber Reserve 2",
@@ -2461,7 +2461,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/batavia"
+    "park_url": "https://parks.qld.gov.au/parks/batavia"
   },
   {
     "estatename": "Meingan Creek Conservation Park",
@@ -2494,7 +2494,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/girramay"
+    "park_url": "https://parks.qld.gov.au/parks/girramay"
   },
   {
     "estatename": "Walhallow State Forest",
@@ -2571,7 +2571,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/boat-mountain"
+    "park_url": "https://parks.qld.gov.au/parks/boat-mountain"
   },
   {
     "estatename": "Mount Ossa National Park",
@@ -2604,7 +2604,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/ex-hmas-brisbane"
+    "park_url": "https://parks.qld.gov.au/parks/ex-hmas-brisbane"
   },
   {
     "estatename": "Canungra State Forest",
@@ -2659,7 +2659,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Baldy Mountain Forest Reserve",
@@ -2670,7 +2670,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Bakers Creek Conservation Park",
@@ -2747,7 +2747,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Porphyry Hill State Forest",
@@ -2802,7 +2802,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/imbil"
+    "park_url": "https://parks.qld.gov.au/parks/imbil"
   },
   {
     "estatename": "Tellebang State Forest",
@@ -2824,7 +2824,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/crows-nest"
+    "park_url": "https://parks.qld.gov.au/parks/crows-nest"
   },
   {
     "estatename": "Melsonby (Gaarraay) National Park (Cape York Peninsula Aboriginal Land)",
@@ -3000,7 +3000,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+    "park_url": "https://parks.qld.gov.au/parks/hinchinbrook"
   },
   {
     "estatename": "Dawson Range State Forest",
@@ -3055,7 +3055,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/sundown"
+    "park_url": "https://parks.qld.gov.au/parks/sundown"
   },
   {
     "estatename": "Taboonbay State Forest",
@@ -3088,7 +3088,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
+    "park_url": "https://parks.qld.gov.au/parks/cardwell-state-forest"
   },
   {
     "estatename": "Peachester State Forest",
@@ -3143,7 +3143,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/conway"
+    "park_url": "https://parks.qld.gov.au/parks/conway"
   },
   {
     "estatename": "Esk State Forest",
@@ -3176,7 +3176,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/repulse-islands"
+    "park_url": "https://parks.qld.gov.au/parks/repulse-islands"
   },
   {
     "estatename": "Duggan Conservation Park",
@@ -3242,7 +3242,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/family-islands"
+    "park_url": "https://parks.qld.gov.au/parks/family-islands"
   },
   {
     "estatename": "Dinden National Park",
@@ -3253,7 +3253,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Mount Hypipamee National Park",
@@ -3264,7 +3264,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Kennedy Road Gravel Resources Reserve",
@@ -3330,7 +3330,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mount-whitfield"
+    "park_url": "https://parks.qld.gov.au/parks/mount-whitfield"
   },
   {
     "estatename": "Glenbar State Forest 1",
@@ -3495,7 +3495,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/michaelmas-upolu-cays"
+    "park_url": "https://parks.qld.gov.au/parks/michaelmas-upolu-cays"
   },
   {
     "estatename": "Ngalba Bulal National Park",
@@ -3506,7 +3506,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/ngalba-bulal"
+    "park_url": "https://parks.qld.gov.au/parks/ngalba-bulal"
   },
   {
     "estatename": "Stuart Creek State Forest",
@@ -3539,7 +3539,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Ban Ban National Park",
@@ -3561,7 +3561,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Beelbi Creek Conservation Park",
@@ -3583,7 +3583,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mount-scoria"
+    "park_url": "https://parks.qld.gov.au/parks/mount-scoria"
   },
   {
     "estatename": "Bouldercombe State Forest",
@@ -3638,7 +3638,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cordalba"
+    "park_url": "https://parks.qld.gov.au/parks/cordalba"
   },
   {
     "estatename": "Good Night Scrub National Park",
@@ -3649,7 +3649,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/good-night-scrub"
+    "park_url": "https://parks.qld.gov.au/parks/good-night-scrub"
   },
   {
     "estatename": "Bulburin National Park",
@@ -3660,7 +3660,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bulburin"
+    "park_url": "https://parks.qld.gov.au/parks/bulburin"
   },
   {
     "estatename": "Vernon Conservation Park",
@@ -3759,7 +3759,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/finucane-island"
+    "park_url": "https://parks.qld.gov.au/parks/finucane-island"
   },
   {
     "estatename": "Mount Binga State Forest",
@@ -3924,7 +3924,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Young State Forest 2",
@@ -3946,7 +3946,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bunya-mountains"
+    "park_url": "https://parks.qld.gov.au/parks/bunya-mountains"
   },
   {
     "estatename": "Oakview State Forest",
@@ -4100,7 +4100,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mouth-of-kolan-river"
+    "park_url": "https://parks.qld.gov.au/parks/mouth-of-kolan-river"
   },
   {
     "estatename": "Cynthia State Forest",
@@ -4133,7 +4133,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/capricorn-coast"
+    "park_url": "https://parks.qld.gov.au/parks/capricorn-coast"
   },
   {
     "estatename": "Mount Kinchant Conservation Park",
@@ -4199,7 +4199,7 @@
     ],
     "tourism_region": "Fraser Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
+    "park_url": "https://parks.qld.gov.au/parks/burrum-coast"
   },
   {
     "estatename": "Basilisk Range National Park",
@@ -4298,7 +4298,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mapleton-falls"
+    "park_url": "https://parks.qld.gov.au/parks/mapleton-falls"
   },
   {
     "estatename": "Splinter Creek State Forest",
@@ -4320,7 +4320,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Calgoa State Forest",
@@ -4342,7 +4342,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-upstart"
+    "park_url": "https://parks.qld.gov.au/parks/cape-upstart"
   },
   {
     "estatename": "Dykehead State Forest",
@@ -4419,7 +4419,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/white-mountains"
+    "park_url": "https://parks.qld.gov.au/parks/white-mountains"
   },
   {
     "estatename": "Gelobera State Forest",
@@ -4529,7 +4529,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Mount Spurgeon National Park",
@@ -4551,7 +4551,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/annan-river"
+    "park_url": "https://parks.qld.gov.au/parks/annan-river"
   },
   {
     "estatename": "Devils Nest State Forest",
@@ -4650,7 +4650,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bartle-frere"
+    "park_url": "https://parks.qld.gov.au/parks/bartle-frere"
   },
   {
     "estatename": "Shoalwater Bay Conservation Park",
@@ -4661,7 +4661,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/shoalwater-bay"
+    "park_url": "https://parks.qld.gov.au/parks/shoalwater-bay"
   },
   {
     "estatename": "Pozieres State Forest",
@@ -4683,7 +4683,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mazeppa"
+    "park_url": "https://parks.qld.gov.au/parks/mazeppa"
   },
   {
     "estatename": "Mount Perry Resources Reserve",
@@ -4716,7 +4716,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/kurrimine"
+    "park_url": "https://parks.qld.gov.au/parks/kurrimine"
   },
   {
     "estatename": "Maroochy River Conservation Park",
@@ -4782,7 +4782,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
+    "park_url": "https://parks.qld.gov.au/parks/cape-hillsborough"
   },
   {
     "estatename": "Brampton Islands National Park",
@@ -4793,7 +4793,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/brampton-islands"
+    "park_url": "https://parks.qld.gov.au/parks/brampton-islands"
   },
   {
     "estatename": "Mount Blandy Conservation Park",
@@ -4826,7 +4826,7 @@
     ],
     "tourism_region": "Gold Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tallebudgera"
+    "park_url": "https://parks.qld.gov.au/parks/tallebudgera"
   },
   {
     "estatename": "Gadgarra Forest Reserve",
@@ -4859,7 +4859,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Biniirr National Park (Cape York Peninsula Aboriginal Land)",
@@ -4892,7 +4892,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Raine Island National Park (scientific)",
@@ -4914,7 +4914,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/charon-point-cp"
+    "park_url": "https://parks.qld.gov.au/parks/charon-point-cp"
   },
   {
     "estatename": "Powrunna State Forest",
@@ -4947,7 +4947,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mia-mia"
+    "park_url": "https://parks.qld.gov.au/parks/mia-mia"
   },
   {
     "estatename": "Thrushton National Park",
@@ -4958,7 +4958,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/thrushton"
+    "park_url": "https://parks.qld.gov.au/parks/thrushton"
   },
   {
     "estatename": "Inglebogie State Forest",
@@ -5013,7 +5013,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bromley"
+    "park_url": "https://parks.qld.gov.au/parks/bromley"
   },
   {
     "estatename": "St Mary State Forest 3",
@@ -5046,7 +5046,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/kalpowar"
+    "park_url": "https://parks.qld.gov.au/parks/kalpowar"
   },
   {
     "estatename": "Newport Conservation Park",
@@ -5090,7 +5090,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tewantin"
+    "park_url": "https://parks.qld.gov.au/parks/tewantin"
   },
   {
     "estatename": "Grongah National Park",
@@ -5123,7 +5123,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/dawes"
+    "park_url": "https://parks.qld.gov.au/parks/dawes"
   },
   {
     "estatename": "Condamine State Forest",
@@ -5156,7 +5156,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/ravensbourne"
+    "park_url": "https://parks.qld.gov.au/parks/ravensbourne"
   },
   {
     "estatename": "Mondure State Forest",
@@ -5178,7 +5178,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/nuga-nuga"
+    "park_url": "https://parks.qld.gov.au/parks/nuga-nuga"
   },
   {
     "estatename": "Kerimbilla State Forest 3",
@@ -5244,7 +5244,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
+    "park_url": "https://parks.qld.gov.au/parks/whitsunday-islands"
   },
   {
     "estatename": "Ben Mohr State Forest",
@@ -5266,7 +5266,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Oakview National Park",
@@ -5332,7 +5332,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/chillagoe-caves"
+    "park_url": "https://parks.qld.gov.au/parks/chillagoe-caves"
   },
   {
     "estatename": "King Conservation Park",
@@ -5354,7 +5354,7 @@
     ],
     "tourism_region": "Gold Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/david-fleay"
+    "park_url": "https://parks.qld.gov.au/parks/david-fleay"
   },
   {
     "estatename": "Lynchs Hill State Forest",
@@ -5376,7 +5376,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/jack-smith-scrub"
+    "park_url": "https://parks.qld.gov.au/parks/jack-smith-scrub"
   },
   {
     "estatename": "Piper Islands National Park (Cape York Peninsula Aboriginal Land)",
@@ -5387,7 +5387,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Develin State Forest",
@@ -5409,7 +5409,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mudlo"
+    "park_url": "https://parks.qld.gov.au/parks/mudlo"
   },
   {
     "estatename": "Curtis Island Conservation Park",
@@ -5420,7 +5420,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/curtis-island"
+    "park_url": "https://parks.qld.gov.au/parks/curtis-island"
   },
   {
     "estatename": "Bulburin State Forest",
@@ -5475,7 +5475,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/townsville"
+    "park_url": "https://parks.qld.gov.au/parks/townsville"
   },
   {
     "estatename": "Mount Barney National Park",
@@ -5486,7 +5486,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mount-barney"
+    "park_url": "https://parks.qld.gov.au/parks/mount-barney"
   },
   {
     "estatename": "Bayview Conservation Park",
@@ -5530,7 +5530,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/yarraman"
+    "park_url": "https://parks.qld.gov.au/parks/yarraman"
   },
   {
     "estatename": "Kettle State Forest",
@@ -5563,7 +5563,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/great-basalt-wall"
+    "park_url": "https://parks.qld.gov.au/parks/great-basalt-wall"
   },
   {
     "estatename": "Thinoomba State Forest",
@@ -5629,7 +5629,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mackay-islands"
+    "park_url": "https://parks.qld.gov.au/parks/mackay-islands"
   },
   {
     "estatename": "Mount Bauple National Park (scientific)",
@@ -5662,7 +5662,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/lake-bindegolly"
+    "park_url": "https://parks.qld.gov.au/parks/lake-bindegolly"
   },
   {
     "estatename": "Roundstone Conservation Park",
@@ -5684,7 +5684,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Howe State Forest",
@@ -5706,7 +5706,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/byfield"
+    "park_url": "https://parks.qld.gov.au/parks/byfield"
   },
   {
     "estatename": "Belington Hut State Forest",
@@ -5728,7 +5728,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Dipperu National Park (scientific)",
@@ -5750,7 +5750,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mount-colosseum"
+    "park_url": "https://parks.qld.gov.au/parks/mount-colosseum"
   },
   {
     "estatename": "Welford National Park",
@@ -5761,7 +5761,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Spicers Gap Road Conservation Park",
@@ -5849,7 +5849,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "Coastal and Islands",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bribie-island"
+    "park_url": "https://parks.qld.gov.au/parks/bribie-island"
   },
   {
     "estatename": "Dan Dan State Forest",
@@ -5915,7 +5915,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/auburn-river"
+    "park_url": "https://parks.qld.gov.au/parks/auburn-river"
   },
   {
     "estatename": "Leyburn State Forest",
@@ -5970,7 +5970,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/jimna"
+    "park_url": "https://parks.qld.gov.au/parks/jimna"
   },
   {
     "estatename": "Beerburrum West State Forest",
@@ -5981,7 +5981,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/beerburrum-beerwah"
+    "park_url": "https://parks.qld.gov.au/parks/beerburrum-beerwah"
   },
   {
     "estatename": "Expedition (Limited Depth) National Park",
@@ -6047,7 +6047,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
+    "park_url": "https://parks.qld.gov.au/parks/kuranda-mowbray"
   },
   {
     "estatename": "Bingera Conservation Park 2",
@@ -6223,7 +6223,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/culgoa-floodplain"
+    "park_url": "https://parks.qld.gov.au/parks/culgoa-floodplain"
   },
   {
     "estatename": "Buckleys Hole Conservation Park",
@@ -6256,7 +6256,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tully-falls"
+    "park_url": "https://parks.qld.gov.au/parks/tully-falls"
   },
   {
     "estatename": "Miva State Forest 1",
@@ -6311,7 +6311,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/lindeman-islands"
+    "park_url": "https://parks.qld.gov.au/parks/lindeman-islands"
   },
   {
     "estatename": "Millmerran State Forest",
@@ -6344,7 +6344,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/byfield"
+    "park_url": "https://parks.qld.gov.au/parks/byfield"
   },
   {
     "estatename": "Wiliyan-ngurru National Park",
@@ -6366,7 +6366,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Granville Conservation Park",
@@ -6388,7 +6388,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cathu"
+    "park_url": "https://parks.qld.gov.au/parks/cathu"
   },
   {
     "estatename": "Royton Timber Reserve",
@@ -6410,7 +6410,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-pallarenda"
+    "park_url": "https://parks.qld.gov.au/parks/cape-pallarenda"
   },
   {
     "estatename": "St Helens State Forest",
@@ -6432,7 +6432,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/molle-islands"
+    "park_url": "https://parks.qld.gov.au/parks/molle-islands"
   },
   {
     "estatename": "Hays Inlet Conservation Park 2",
@@ -6487,7 +6487,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
+    "park_url": "https://parks.qld.gov.au/parks/daisy-hill"
   },
   {
     "estatename": "Freshwater National Park",
@@ -6520,7 +6520,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/moorrinya"
+    "park_url": "https://parks.qld.gov.au/parks/moorrinya"
   },
   {
     "estatename": "Palen State Forest 2",
@@ -6597,7 +6597,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/kroombit-tops"
+    "park_url": "https://parks.qld.gov.au/parks/kroombit-tops"
   },
   {
     "estatename": "Little Mulgrave National Park",
@@ -6630,7 +6630,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/orpheus-island"
+    "park_url": "https://parks.qld.gov.au/parks/orpheus-island"
   },
   {
     "estatename": "Mount Auburn State Forest",
@@ -6707,7 +6707,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/gloucester-island"
+    "park_url": "https://parks.qld.gov.au/parks/gloucester-island"
   },
   {
     "estatename": "Bullock Creek Conservation Park",
@@ -6740,7 +6740,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/jumrum-creek"
+    "park_url": "https://parks.qld.gov.au/parks/jumrum-creek"
   },
   {
     "estatename": "Andromache Conservation Park",
@@ -6795,7 +6795,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/djiru"
+    "park_url": "https://parks.qld.gov.au/parks/djiru"
   },
   {
     "estatename": "D'Aguilar National Park",
@@ -6806,7 +6806,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/daguilar"
+    "park_url": "https://parks.qld.gov.au/parks/daguilar"
   },
   {
     "estatename": "Bribie Island State Forest",
@@ -6828,7 +6828,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mount-coolum"
+    "park_url": "https://parks.qld.gov.au/parks/mount-coolum"
   },
   {
     "estatename": "Danbulla West Forest Reserve",
@@ -6850,7 +6850,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/currawinya"
+    "park_url": "https://parks.qld.gov.au/parks/currawinya"
   },
   {
     "estatename": "Gulngay National Park",
@@ -6872,7 +6872,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/plunkett-wickham"
+    "park_url": "https://parks.qld.gov.au/parks/plunkett-wickham"
   },
   {
     "estatename": "Expedition National Park",
@@ -6883,7 +6883,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/expedition"
+    "park_url": "https://parks.qld.gov.au/parks/expedition"
   },
   {
     "estatename": "Glenbar State Forest 4",
@@ -6916,7 +6916,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/lochern"
+    "park_url": "https://parks.qld.gov.au/parks/lochern"
   },
   {
     "estatename": "Gubberamunda State Forest 3",
@@ -6938,7 +6938,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/curtis-island"
+    "park_url": "https://parks.qld.gov.au/parks/curtis-island"
   },
   {
     "estatename": "Great Sandy National Park",
@@ -6949,7 +6949,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "Coastal and Islands",
-    "park_url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
+    "park_url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
   },
   {
     "estatename": "Elgin Vale State Forest",
@@ -6993,7 +6993,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/boodjamulla"
+    "park_url": "https://parks.qld.gov.au/parks/boodjamulla"
   },
   {
     "estatename": "Tomewin Conservation Park",
@@ -7015,7 +7015,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/brook-islands"
+    "park_url": "https://parks.qld.gov.au/parks/brook-islands"
   },
   {
     "estatename": "Ma'alpiku Island National Park (Cape York Peninsula Aboriginal Land)",
@@ -7026,7 +7026,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Junee National Park",
@@ -7081,7 +7081,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/lake-broadwater"
+    "park_url": "https://parks.qld.gov.au/parks/lake-broadwater"
   },
   {
     "estatename": "Topaz Road National Park",
@@ -7103,7 +7103,7 @@
     ],
     "tourism_region": "Fraser Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mount-walsh"
+    "park_url": "https://parks.qld.gov.au/parks/mount-walsh"
   },
   {
     "estatename": "St Mary State Forest 2",
@@ -7191,7 +7191,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mount-lewis"
+    "park_url": "https://parks.qld.gov.au/parks/mount-lewis"
   },
   {
     "estatename": "Benarkin National Park",
@@ -7246,7 +7246,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Hann Tableland National Park",
@@ -7290,7 +7290,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/kondalilla"
+    "park_url": "https://parks.qld.gov.au/parks/kondalilla"
   },
   {
     "estatename": "Morinish State Forest",
@@ -7312,7 +7312,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
+    "park_url": "https://parks.qld.gov.au/parks/blackdown-tableland"
   },
   {
     "estatename": "Cherbourg National Park",
@@ -7334,7 +7334,7 @@
     ],
     "tourism_region": "Fraser Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tuan"
+    "park_url": "https://parks.qld.gov.au/parks/tuan"
   },
   {
     "estatename": "Arthurs Seat State Forest",
@@ -7499,7 +7499,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Three Islands Group National Park",
@@ -7510,7 +7510,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Daintree National Park (Cape York Peninsula Aboriginal Land)",
@@ -7543,7 +7543,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Selene State Forest",
@@ -7565,7 +7565,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "North Pointer Conservation Park",
@@ -7609,7 +7609,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parklands"
+    "park_url": "https://parks.qld.gov.au/parks/parklands"
   },
   {
     "estatename": "Clump Mountain National Park",
@@ -7620,7 +7620,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/clump-mountain"
+    "park_url": "https://parks.qld.gov.au/parks/clump-mountain"
   },
   {
     "estatename": "Glenbar State Forest 3",
@@ -7741,7 +7741,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tuchekoi"
+    "park_url": "https://parks.qld.gov.au/parks/tuchekoi"
   },
   {
     "estatename": "Boondandilla State Forest",
@@ -7818,7 +7818,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/homevale"
+    "park_url": "https://parks.qld.gov.au/parks/homevale"
   },
   {
     "estatename": "Wondul Creek State Forest",
@@ -7895,7 +7895,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/benarkin"
+    "park_url": "https://parks.qld.gov.au/parks/benarkin"
   },
   {
     "estatename": "Cressbrook Conservation Park",
@@ -7950,7 +7950,7 @@
     ],
     "tourism_region": "Gold Coast",
     "admin_region": "Coastal and Islands",
-    "park_url": "https://parks.desi.qld.gov.au/parks/southern-moreton-bay"
+    "park_url": "https://parks.qld.gov.au/parks/southern-moreton-bay"
   },
   {
     "estatename": "Monduran State Forest 1",
@@ -8027,7 +8027,7 @@
     ],
     "tourism_region": "Gold Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
+    "park_url": "https://parks.qld.gov.au/parks/great-walks-gold-coast-hinterland"
   },
   {
     "estatename": "Girringun Resources Reserve",
@@ -8148,7 +8148,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/beerburrum-beerwah"
+    "park_url": "https://parks.qld.gov.au/parks/beerburrum-beerwah"
   },
   {
     "estatename": "Parklands State Forest",
@@ -8203,7 +8203,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/joseph-banks"
+    "park_url": "https://parks.qld.gov.au/parks/joseph-banks"
   },
   {
     "estatename": "Rundle Range Resources Reserve",
@@ -8258,7 +8258,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Broad Sound Islands Conservation Park",
@@ -8313,7 +8313,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Pechey State Forest",
@@ -8423,7 +8423,7 @@
     ],
     "tourism_region": "Fraser Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/poona"
+    "park_url": "https://parks.qld.gov.au/parks/poona"
   },
   {
     "estatename": "Rundle State Forest",
@@ -8467,7 +8467,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/homevale"
+    "park_url": "https://parks.qld.gov.au/parks/homevale"
   },
   {
     "estatename": "Myora Conservation Park",
@@ -8489,7 +8489,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Conway West Conservation Park",
@@ -8544,7 +8544,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/frankland-group"
+    "park_url": "https://parks.qld.gov.au/parks/frankland-group"
   },
   {
     "estatename": "Venman Bushland National Park",
@@ -8555,7 +8555,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/venman-bushland"
+    "park_url": "https://parks.qld.gov.au/parks/venman-bushland"
   },
   {
     "estatename": "Vernon State Forest",
@@ -8566,7 +8566,7 @@
     ],
     "tourism_region": "Fraser Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/vernon"
+    "park_url": "https://parks.qld.gov.au/parks/vernon"
   },
   {
     "estatename": "Elizabeth Springs Conservation Park",
@@ -8577,7 +8577,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Buccan Conservation Park",
@@ -8676,7 +8676,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Deongwar State Forest",
@@ -8709,7 +8709,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Conondale Resources Reserve",
@@ -8797,7 +8797,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/kurrimine"
+    "park_url": "https://parks.qld.gov.au/parks/kurrimine"
   },
   {
     "estatename": "Mariala National Park",
@@ -8808,7 +8808,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Tully Falls Forest Reserve",
@@ -8885,7 +8885,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/kirrama"
+    "park_url": "https://parks.qld.gov.au/parks/kirrama"
   },
   {
     "estatename": "Toorbul Conservation Park",
@@ -9072,7 +9072,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+    "park_url": "https://parks.qld.gov.au/parks/paluma-range"
   },
   {
     "estatename": "Magnetic Island Conservation Park 2",
@@ -9127,7 +9127,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/broad-sound-islands"
+    "park_url": "https://parks.qld.gov.au/parks/broad-sound-islands"
   },
   {
     "estatename": "Ferntree Creek National Park",
@@ -9171,7 +9171,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bladensburg"
+    "park_url": "https://parks.qld.gov.au/parks/bladensburg"
   },
   {
     "estatename": "Dalrymple National Park",
@@ -9182,7 +9182,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/dalrymple"
+    "park_url": "https://parks.qld.gov.au/parks/dalrymple"
   },
   {
     "estatename": "Earl Hill Conservation Park",
@@ -9193,7 +9193,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/earl-hill"
+    "park_url": "https://parks.qld.gov.au/parks/earl-hill"
   },
   {
     "estatename": "Herberton Range National Park",
@@ -9204,7 +9204,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Sunnyside State Forest",
@@ -9248,7 +9248,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Wongi State Forest",
@@ -9259,7 +9259,7 @@
     ],
     "tourism_region": "Fraser Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/wongi"
+    "park_url": "https://parks.qld.gov.au/parks/wongi"
   },
   {
     "estatename": "Pine Ridge Conservation Park",
@@ -9270,7 +9270,7 @@
     ],
     "tourism_region": "Gold Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/pine-ridge"
+    "park_url": "https://parks.qld.gov.au/parks/pine-ridge"
   },
   {
     "estatename": "Harry Spring Conservation Park",
@@ -9292,7 +9292,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "Coastal and Islands",
-    "park_url": "https://parks.desi.qld.gov.au/parks/st-helena-island"
+    "park_url": "https://parks.qld.gov.au/parks/st-helena-island"
   },
   {
     "estatename": "Northumberland Islands National Park",
@@ -9347,7 +9347,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
+    "park_url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
   },
   {
     "estatename": "Baffle Creek Conservation Park",
@@ -9391,7 +9391,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/forty-mile-scrub"
+    "park_url": "https://parks.qld.gov.au/parks/forty-mile-scrub"
   },
   {
     "estatename": "Kelvin National Park",
@@ -9413,7 +9413,7 @@
     ],
     "tourism_region": "Gold Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
+    "park_url": "https://parks.qld.gov.au/parks/great-walks-gold-coast-hinterland"
   },
   {
     "estatename": "Denmark Hill Conservation Park",
@@ -9512,7 +9512,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cania-gorge"
+    "park_url": "https://parks.qld.gov.au/parks/cania-gorge"
   },
   {
     "estatename": "Southwood National Park",
@@ -9523,7 +9523,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/southwood"
+    "park_url": "https://parks.qld.gov.au/parks/southwood"
   },
   {
     "estatename": "Yalebone State Forest 1",
@@ -9545,7 +9545,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/palms"
+    "park_url": "https://parks.qld.gov.au/parks/palms"
   },
   {
     "estatename": "Calliope Range State Forest",
@@ -9611,7 +9611,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/glass-house-mountains"
+    "park_url": "https://parks.qld.gov.au/parks/glass-house-mountains"
   },
   {
     "estatename": "Mount Leura Conservation Park",
@@ -9655,7 +9655,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/canyon-resources"
+    "park_url": "https://parks.qld.gov.au/parks/canyon-resources"
   },
   {
     "estatename": "Kinkora State Forest",
@@ -9677,7 +9677,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Googa State Forest",
@@ -9699,7 +9699,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/amamoor"
+    "park_url": "https://parks.qld.gov.au/parks/amamoor"
   },
   {
     "estatename": "Little Mulgrave Forest Reserve",
@@ -9754,7 +9754,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/samford"
+    "park_url": "https://parks.qld.gov.au/parks/samford"
   },
   {
     "estatename": "Toohey Forest Conservation Park",
@@ -9798,7 +9798,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/conondale"
+    "park_url": "https://parks.qld.gov.au/parks/conondale"
   },
   {
     "estatename": "Kinrara National Park",
@@ -9864,7 +9864,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/barakula"
+    "park_url": "https://parks.qld.gov.au/parks/barakula"
   },
   {
     "estatename": "Keilambete State Forest",
@@ -10018,7 +10018,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/amamoor"
+    "park_url": "https://parks.qld.gov.au/parks/amamoor"
   },
   {
     "estatename": "Jardine River National Park",
@@ -10029,7 +10029,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Currimundi Lake (Kathleen McArthur) Conservation Park",
@@ -10040,7 +10040,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/currimundi"
+    "park_url": "https://parks.qld.gov.au/parks/currimundi"
   },
   {
     "estatename": "Deepwater National Park",
@@ -10051,7 +10051,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/deepwater"
+    "park_url": "https://parks.qld.gov.au/parks/deepwater"
   },
   {
     "estatename": "Allies Creek State Forest",
@@ -10095,7 +10095,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/blackbraes"
+    "park_url": "https://parks.qld.gov.au/parks/blackbraes"
   },
   {
     "estatename": "Dyngie State Forest",
@@ -10183,7 +10183,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/goodedulla"
+    "park_url": "https://parks.qld.gov.au/parks/goodedulla"
   },
   {
     "estatename": "Beninbi National Park",
@@ -10205,7 +10205,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/olkola-cypal"
+    "park_url": "https://parks.qld.gov.au/parks/olkola-cypal"
   },
   {
     "estatename": "Gurgeena State Forest",
@@ -10249,7 +10249,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/dularcha"
+    "park_url": "https://parks.qld.gov.au/parks/dularcha"
   },
   {
     "estatename": "Sujeewong State Forest",
@@ -10271,7 +10271,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/wuthathi"
+    "park_url": "https://parks.qld.gov.au/parks/wuthathi"
   },
   {
     "estatename": "Newry Islands National Park",
@@ -10282,7 +10282,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mackay-islands"
+    "park_url": "https://parks.qld.gov.au/parks/mackay-islands"
   },
   {
     "estatename": "Tagalaka National Park",
@@ -10293,7 +10293,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tagalaka"
+    "park_url": "https://parks.qld.gov.au/parks/tagalaka"
   },
   {
     "estatename": "Munga-Thirri National Park",
@@ -10304,7 +10304,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Davies Creek National Park",
@@ -10315,7 +10315,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Herberton Range Conservation Park",
@@ -10326,7 +10326,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Barabanbel State Forest 2",
@@ -10348,7 +10348,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mackay-islands"
+    "park_url": "https://parks.qld.gov.au/parks/mackay-islands"
   },
   {
     "estatename": "Glenbar State Forest 2",
@@ -10403,7 +10403,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/moogerah-peaks"
+    "park_url": "https://parks.qld.gov.au/parks/moogerah-peaks"
   },
   {
     "estatename": "Mount Windsor National Park",
@@ -10491,7 +10491,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Mount Beau Brummell Conservation Park",
@@ -10524,7 +10524,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/coalstoun-lakes"
+    "park_url": "https://parks.qld.gov.au/parks/coalstoun-lakes"
   },
   {
     "estatename": "Yule State Forest",
@@ -10579,7 +10579,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/isla-gorge"
+    "park_url": "https://parks.qld.gov.au/parks/isla-gorge"
   },
   {
     "estatename": "Burleigh Head National Park",
@@ -10590,7 +10590,7 @@
     ],
     "tourism_region": "Gold Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
+    "park_url": "https://parks.qld.gov.au/parks/burleigh-head"
   },
   {
     "estatename": "Beachmere Conservation Park",
@@ -10667,7 +10667,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Serocold State Forest",
@@ -10722,7 +10722,7 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/main-range-cp"
+    "park_url": "https://parks.qld.gov.au/parks/main-range-cp"
   },
   {
     "estatename": "Sandringham Bay Conservation Park",
@@ -10777,7 +10777,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Rungulla National Park",
@@ -10788,7 +10788,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/rungulla"
+    "park_url": "https://parks.qld.gov.au/parks/rungulla"
   },
   {
     "estatename": "Bingera Conservation Park 1",
@@ -10898,7 +10898,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Bluff Hill National Park",
@@ -10953,7 +10953,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/minerva-hills"
+    "park_url": "https://parks.qld.gov.au/parks/minerva-hills"
   },
   {
     "estatename": "Bingera National Park",
@@ -10986,7 +10986,7 @@
     ],
     "tourism_region": "Southern Great Barrier Reef",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mon-repos"
+    "park_url": "https://parks.qld.gov.au/parks/mon-repos"
   },
   {
     "estatename": "Werribee Creek State Forest",
@@ -11008,7 +11008,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Bowling Green Bay National Park",
@@ -11019,7 +11019,7 @@
     ],
     "tourism_region": "Townsville",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/bowling-green-bay"
+    "park_url": "https://parks.qld.gov.au/parks/bowling-green-bay"
   },
   {
     "estatename": "Lockyer State Forest",
@@ -11041,7 +11041,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/woondum"
+    "park_url": "https://parks.qld.gov.au/parks/woondum"
   },
   {
     "estatename": "Auburn State Forest",
@@ -11063,7 +11063,7 @@
     ],
     "tourism_region": "Southern Queensland Country",
     "admin_region": "South West",
-    "park_url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
+    "park_url": "https://parks.qld.gov.au/parks/carnarvon-gorge"
   },
   {
     "estatename": "Percy Isles National Park",
@@ -11107,7 +11107,7 @@
     ],
     "tourism_region": "Outback",
     "admin_region": "Central",
-    "park_url": "https://parks.desi.qld.gov.au/parks/parks-central-west"
+    "park_url": "https://parks.qld.gov.au/parks/parks-central-west"
   },
   {
     "estatename": "Gunyan State Forest",
@@ -11129,7 +11129,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/broadwater"
+    "park_url": "https://parks.qld.gov.au/parks/broadwater"
   },
   {
     "estatename": "Kamerunga Conservation Park",
@@ -11151,7 +11151,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/cape-york"
+    "park_url": "https://parks.qld.gov.au/parks/cape-york"
   },
   {
     "estatename": "Astrebla Downs National Park",
@@ -11184,7 +11184,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mooloolah-river"
+    "park_url": "https://parks.qld.gov.au/parks/mooloolah-river"
   },
   {
     "estatename": "Goomboorian National Park",
@@ -11239,7 +11239,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/tablelands"
+    "park_url": "https://parks.qld.gov.au/parks/tablelands"
   },
   {
     "estatename": "Hallorans Hill Conservation Park",
@@ -11283,7 +11283,7 @@
     ],
     "tourism_region": "Tropical North Queensland",
     "admin_region": "Northern",
-    "park_url": "https://parks.desi.qld.gov.au/parks/undara-volcanic"
+    "park_url": "https://parks.qld.gov.au/parks/undara-volcanic"
   },
   {
     "estatename": "Doonkuna State Forest",
@@ -11305,7 +11305,7 @@
     ],
     "tourism_region": "The Whitsundays and Mackay",
     "admin_region": "Great Barrier Reef and Marine Parks",
-    "park_url": "https://parks.desi.qld.gov.au/parks/holbourne-island"
+    "park_url": "https://parks.qld.gov.au/parks/holbourne-island"
   },
   {
     "estatename": "Mapleton National Park",
@@ -11316,7 +11316,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/mapleton"
+    "park_url": "https://parks.qld.gov.au/parks/mapleton"
   },
   {
     "estatename": "Palen State Forest 1",
@@ -11338,7 +11338,7 @@
     ],
     "tourism_region": "Sunshine Coast",
     "admin_region": "South East Queensland",
-    "park_url": "https://parks.desi.qld.gov.au/parks/brooyar"
+    "park_url": "https://parks.qld.gov.au/parks/brooyar"
   },
   {
     "estatename": "Naree Budjong Djara National Park",
@@ -11349,6 +11349,6 @@
     ],
     "tourism_region": "Brisbane",
     "admin_region": "Coastal and Islands",
-    "park_url": "https://parks.desi.qld.gov.au/parks/minjerribah"
+    "park_url": "https://parks.qld.gov.au/parks/minjerribah"
   }
 ]
