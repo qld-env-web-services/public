@@ -1,5 +1,5 @@
 {
-  "count": 339,
+  "count": 340,
   "records": [
 {
   "id": 356931,
@@ -6045,6 +6045,37 @@
   "otherAddress": "",
   "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0015/80502/101030-hirf.jpg",
   "thumbnailCaption": "Multicoloured image of brain showing functional connectivity"
+},
+{
+  "id": 414604,
+  "directoryID": "",
+  "centre": "Hidden Vale Research Station",
+  "url": "https://science.qld.gov.au/research/capability-directory/hidden-vale-research-station",
+  "issued": "2025-12-23",
+  "published": "2025-12-23 16:10:12",
+  "description": "Hidden Vale Research Station is one of three research stations affiliated with the UQ Faculty of Science.",
+  "overview": "<p>HVRS is supported by a nationally unique partnership between the Turner Family Foundation and the University of Queensland. Activities include academic research in conservation, ecology, and&nbsp;reproductive technology for wildlife, conservation research on the threatened Condamine earless dragon, experimental habitat restoration to create corridors for koalas, experimental fire ecology to promote wildlife and native grasses, and&nbsp;a property-wide fauna monitoring scheme that includes bird data in the eBird&nbsp;app. HVRS&nbsp;is a founding member of the Little&nbsp;Liverpool Range Initiative, which protects and restores regional native vegetation corridors. HVRS&nbsp;also hosts undergraduate and postgraduate students in teaching across wildlife biology, ecology and environmental management, and provides a high school student outreach programme, supported by a captive wildlife population in a bespoke wildlife facility on&nbsp;property.<\/p>",
+  "formerName": "",
+  "parentOrg": "University of Queensland",
+  "centreUrl": "https://hiddenvalewildlife.uq.edu.au/",
+  "sectors": "environment-nature",
+  "strengths": "<ul><li>Conservation and research breeding of&nbsp;wildlife.<\/li><li>Bird, mammal and other wildlife monitoring with trapping, camera-trapping, imaging, acoustic monitoring, eDNA.<\/li><li>Research student grants and&nbsp;training.<\/li><li>Seminar and workshop support.<\/li><\/ul>",
+  "equipment": "<ul><li>4600&nbsp;ha property including 3100 ha Nature Refuge with vehicle tracks, mountain bike tracks, walking&nbsp;trails.<\/li><li>Wildlife holding and breeding facility with six outdoor aviaries (24&nbsp;x&nbsp;6 x&nbsp;7m), which can be separated into smaller pens (12&nbsp;x&nbsp;6 x&nbsp;7m), an&nbsp;outdoor pen (25&nbsp;x&nbsp;15 x&nbsp;3m), ten&nbsp;small mammal enclosures (2.5&nbsp;x 4 x&nbsp;2m), three outdoor aviaries (2.5&nbsp;x 2.5 x&nbsp;2m), three holding pens: 7&nbsp;x 7 x 3m, 5.5 x 3.5 x&nbsp;3m, 5.5&nbsp;x&nbsp;3.5 x&nbsp;3m.<\/li><li>Cold room and husbandry preparation&nbsp;area.<\/li><li>Veterinary clinic with anaesthetic and ultrasound machines, photographic compound microscope.<\/li><li>Two light and temperature controlled laboratories.<\/li><li>Lecture theatre.<\/li><li>Research vehicle (4WD&nbsp;Hilux).<\/li><\/ul>",
+  "size": "0-20",
+  "type": "<ul><li>University Research Station<\/li><\/ul>",
+  "primaryCentreID": null,
+  "primeryCentreName": "",
+  "keywords": "nestbox, eDNA, acoustic monitoring, ex-situ conservation, captive wildlife, global change, ecotourism,",
+  "leading": "",
+  "special": "",
+  "achievments": "<ul><li>Zoo and Aquarium Association small organisation Conservation Award 2023 (koala conservation project). <a href=\"https:\/\/zooaquarium.org.au\/public\/public\/News\/Articles\/Wrapping-up-2023-ZAA-Conference-and-the-award-winners.aspx\">Wrapping&nbsp;up 2023&nbsp;ZAA Conference and the award&nbsp;winners<\/a>.<\/li><li>Condamine Earless Dragon (Tympanocryptis condaminensis) conservation&nbsp;project.<\/li><li>Supported 45&nbsp;student research projects 2023&ndash;2025.<\/li><li>Enabled Queensland Smithsonian Fellowship award in wildlife reproductive technology (Andres Gambini <a href=\".\/?a=357387\">Fellows&nbsp;fly for seabirds and wildlife conservation&nbsp;research | Department of the Environment, Tourism, Science and Innovation (DETSI), Queensland<\/a>).<\/li><\/ul>",
+  "scientists": "",
+  "latitude": -27.71722222,
+  "longitude": 152.46305556,
+  "address": "617 Grandchester Mount Mort Road, Grandchester, Queensland",
+  "otherAddress": "",
+  "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0020/414614/hidden-vale-research-station.jpg",
+  "thumbnailCaption": "Hidden Vale Wildlife Centre"
 },
 {
   "id": 304702,
