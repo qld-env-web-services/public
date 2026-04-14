@@ -1,3 +1,3 @@
 # public
 
-Publically accessibly repo to share files with Squiz Matrix CMS
+Files shared with Squiz Matrix CMS
