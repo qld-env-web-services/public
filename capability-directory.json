@@ -1,5 +1,5 @@
 {
-  "count": 330,
+  "count": 331,
   "records": [
     {
       "id": 356931,
@@ -7316,6 +7316,37 @@
       "otherAddress": "",
       "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0020/290513/100027-national-imaging-facility-queensland-node.png",
       "thumbnailCaption": "Three brain scan images"
+    },
+    {
+      "id": 433593,
+      "directoryID": "",
+      "centre": "National Quantum Computing Testbed",
+      "url": "https://science.qld.gov.au/research/capability-directory/national-quantum-computing-testbed",
+      "issued": "2026-06-29 14:12:30",
+      "published": "2026-06-29 14:35:26",
+      "description": "The National Quantum Computing Testbed provides open, hardware-level access to superconducting quantum processors, supporting research, industry innovation, education, quantum control, error correction, and advanced device development.",
+      "overview": "<p>The National Quantum Computing Testbed is an open-access facility providing researchers, students and industry with direct hardware-level access to superconducting quantum processors.</p><p>It enables users to develop and test quantum control methods, error correction protocols, algorithms, device designs and advanced materials on stable, well-characterised quantum hardware.</p><p>Unlike commercial cloud quantum computers, the Testbed offers transparent access to low-level hardware without restrictive secrecy requirements, supporting fair comparison, repeatability and protection of user intellectual property.</p><p>The facility also supports education and training for future hardware-aware quantum engineers, while advancing Australian capability in quantum chip fabrication, system integration, software access and quantum technology commercialisation.</p>",
+      "formerName": "",
+      "parentOrg": "",
+      "centreUrl": "https://www.nqct.org/",
+      "sectors": "advanced-manufacturing; quantum",
+      "strengths": "<ul><li>superconducting qubit hardware access including quantum control, primitves of quantum error correction testing, quantum error mitigation protocols.</li><li>quantum processor characterisation and noise measurement and analysis</li><li>quantum software stack access</li><li>repeatable benchmark testing of quantum superconducting hardware including quantum amplifier and microwave components</li><li>quantum devices design and nanofabrication</li></ul>",
+      "equipment": "<ul><li>two dilution refrigerators</li><li>multi-qubit superconducting quantum processors</li><li>expandable qubit control electronics</li><li>cryogenic cold wiring</li><li>quantum chip sample holders</li><li>microwave shields</li><li>test and measurement electronics</li><li>superconducting qubit chips</li><li>quantum amplifiers</li><li>on-chip microwave components</li><li>remote cloud-access interface</li><li>quantum software stack</li><li>nanofabrication process access</li><li>quantum device characterisation setup</li><li>user booking and access system</li></ul>",
+      "size": "0-20",
+      "type": "<ul><li>University research centre</li><li>Not-for-profit</li></ul>",
+      "primaryCentreID": null,
+      "primeryCentreName": "",
+      "keywords": "UQ: quantum computing; superconducting quantum processors; quantum computing testbed; hardware-level quantum access; quantum control methods; quantum error correction; quantum algorithms; quantum device design; advanced quantum materials; open-access quantum infrastructure; low-level quantum hardware access; quantum research facility; quantum engineering training; hardware-aware quantum engineers; quantum chip fabrication; quantum system integration; quantum software access; quantum technology commercialisation; Australian quantum technology; transparent quantum computing",
+      "leading": "",
+      "special": "",
+      "achievments": "",
+      "scientists": "<ul><li><u>Professor Arkady Fedorov</u>: NQCT Director; co-founder of Analog Quantum Circuits and leader in superconducting quantum circuits.</li><li><u>Professor Muhammad Usman</u>: Leads CSIRO quantum software development supporting full-stack access to quantum computing hardware.</li><li><u>Professor Chris Vale</u>: Leads CSIRO Quantum Technologies Future Science Platform and quantum technology adoption across sectors.</li><li><u>Dr. Prasanna Pakkian</u>: NQCT Deputy Director; leader in superconducting quantum circuits, spin qubit, development of quantum hardware control stack.</li></ul>",
+      "latitude": -27.497015,
+      "longitude": 153.015160,
+      "address": "Bld. 78 room 125, St Lucia, University of Queensland 4070",
+      "otherAddress": "",
+      "thumbnailUrl": "",
+      "thumbnailCaption": ""
     },
     {
       "id": 304606,
