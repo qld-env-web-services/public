@@ -5897,7 +5897,7 @@
       "centre": "Institute for Communities and Regional Development",
       "url": "https://science.qld.gov.au/research/capability-directory/institute-resilient-regions",
       "issued": "2023-03-01 15:44:13",
-      "published": "2026-07-10 15:52:13",
+      "published": "2026-07-13 09:39:44",
       "description": "ICRD partners with communities, governments, industry, and organisations to help regional communities navigate change, harness opportunities, strengthen wellbeing, and build a thriving, resilient, and future-ready regional Australia.",
       "overview": "<p>The Institute for Communities and Regional Development (ICRD) conducts interdisciplinary, collaborative research that addresses the challenges and opportunities facing regional, rural, and remote communities.</p><p>ICRD brings deep expertise in place-based and regional approaches, informed by applied research and responsive to the social, cultural, economic, and environmental contexts that shape regional Australia. Through this work, ICRD generates evidence-based solutions to complex and interconnected issues.</p><p>ICRD works with communities, governments, non-government organisations, and businesses to support regional communities to navigate change, harness opportunities, develop and apply new skills, and strengthen identities, wellbeing, and connection.</p>",
       "formerName": "",
@@ -5919,8 +5919,8 @@
       "longitude": 151.930750,
       "address": "487-535 West Street, Toowoomba, QLD 4350, Australia",
       "otherAddress": "",
-      "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0027/276192/105011-irr-garnett-plum.jpg",
-      "thumbnailCaption": "The Queen Garnet plum on the tree"
+      "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0028/434764/varieties/w200.jpg",
+      "thumbnailCaption": "Autumn leaves beside a pond with a blurred red bridge in the background"
     },
     {
       "id": 305227,
@@ -6641,7 +6641,7 @@
       "centre": "Julius Kruttschnitt Mineral Research Centre",
       "url": "https://science.qld.gov.au/research/capability-directory/julius-kruttschnitt-mineral-research-centre",
       "issued": "2023-03-01 15:46:28",
-      "published": "2026-07-10 16:17:36",
+      "published": "2026-07-13 09:35:50",
       "description": "JKMRC has an outstanding reputation as an innovator in mineral processing techniques. Our researchers are committed to delivering sustainable resource development and training the next generation of industry and community leaders.",
       "overview": "<p>The Julius Kruttschnitt Mineral Research Centre (JKMRC) is a world-leading provider of postgraduate education and innovative applied research in mineral processing and geometallurgy.</p><p>JKMRC focuses on advancing knowledge and practical solutions considering the emerging needs of minerals for the sustainable development of society. Our researchers collaborate extensively with industry and research organisations worldwide, and our research outcomes are widely used in practice.</p><p>The Centre's vision is to bridge the gap between academic research and real-world applications and create industry impact through applied research and knowledge transfer, benefiting both the industry and the scientific community.</p>",
       "formerName": "",
@@ -6649,7 +6649,7 @@
       "centreUrl": "https://smi.uq.edu.au/jkmrc",
       "sectors": "energy; engineering; mining-resources",
       "strengths": "<ul><li>High-temperature processing</li><li>Novel separation technologies</li><li>Flotation chemistry</li><li>Future autonomous systems and technologies</li><li>Energy transition and process decarbonisation</li><li>Geometallurgy</li><li>Advanced Process Prediction and Control</li></ul>",
-      "equipment": "<ul><li=> Pilot Plant <li>Equipment fabrication workshop</li><li>Mineral Characterisation Research Facility</li><li>Instrument Laboratory</li></li=></ul>",
+      "equipment": "<ul><li>Pilot Plant</li><li>Equipment fabrication workshop</li><li>Mineral Characterisation Research Facility</li><li>Instrument Laboratory</li></ul>",
       "size": "20-100",
       "type": "<ul><li>University research centre</li></ul>",
       "primaryCentreID": 305018,
@@ -6663,8 +6663,8 @@
       "longitude": 152.966273,
       "address": "The University of Queensland Experimental Mine, 40 Isles Rd, Indooroopilly QLD 4068",
       "otherAddress": "",
-      "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0031/376429/jk-mineral-research-centre.jpg",
-      "thumbnailCaption": ""
+      "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0027/434763/2026-07-jkmrc-thumbnail.jpg",
+      "thumbnailCaption": "Sustainable Minerals Institute"
     },
     {
       "id": 304798,
