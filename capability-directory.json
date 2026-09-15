@@ -1,5 +1,5 @@
 {
-  "count": 330,
+  "count": 331,
   "records": [
     {
       "id": 356931,
@@ -992,6 +992,37 @@
       "otherAddress": "",
       "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0025/80683/104002-aithm.jpg",
       "thumbnailCaption": "Microscopic view of a tropical disease"
+    },
+    {
+      "id": 442089,
+      "directoryID": "",
+      "centre": "Australian mRNA Cancer Vaccine Hub",
+      "url": "https://science.qld.gov.au/research/capability-directory/australian-mrna-cancer-vaccine-hub",
+      "issued": "2026-09-15 16:31:43",
+      "published": "2026-09-15 16:44:38",
+      "description": "Australia's first hub for personalised mRNA cancer vaccine research. We enable tumour sequencing, neo-antigen discovery, vaccine design, mRNA manufacture and preclinical evaluation for researchers across Australia.",
+      "overview": "<p>The Australian mRNA Cancer Vaccine Hub is national research infrastructure based at the University of Queensland's Australian Institute for Bioengineering and Nanotechnology, funded by the Medical Research Future Fund.</p><p>We give Australian researchers a single place to take a cancer vaccine from a tumour sample through to preclinical data. That covers whole-exome and RNA sequencing, neo-antigen prediction and validation, mRNA construct design, lipid nanoparticle formulation, quality control and in vivo evaluation, with mRNA manufacture in two to three weeks.</p><p>We are a research centre and do not supply vaccines to patients.</p><p>Our programs run with clinician-researchers in paediatric brain, blood, pancreatic, breast, gastrointestinal and lung cancer, and we develop targeted delivery technology that takes mRNA-LNPs beyond the liver.</p>",
+      "formerName": "",
+      "parentOrg": "",
+      "centreUrl": "https://www.mrnacancerhub.com",
+      "sectors": "advanced-manufacturing; biotechnology; health-medical",
+      "strengths": "<ul><li>Tumour whole-exome and RNA sequencing</li><li>Somatic variant calling against matched germline</li><li>HLA typing and MHC class I and II binding prediction</li><li>Machine learning prioritisation of neo-antigens</li><li>T cell validation of predicted neo-antigens</li><li>Polyepitope mRNA construct design</li><li>Codon optimisation and modified nucleoside chemistry</li><li>mRNA sequence design software (mRNArchitect)</li><li>In vitro transcription and enzymatic capping</li><li>Microfluidic lipid nanoparticle formulation</li><li>mRNA integrity, capping and impurity analysis</li><li>Bispecific antibody targeting of mRNA-LNPs beyond the liver</li><li>Fixed-antigen vaccine matching from tumour antigen profiles</li><li>In vivo evaluation across multiple cancer models</li></ul>",
+      "equipment": "<ul><li>Microfluidic mixing systems for lipid nanoparticle formulation</li><li>HPLC and cellulose-based mRNA purification</li><li>Capillary electrophoresis for mRNA integrity analysis</li><li>Physical Containment Class 2 (PC2) laboratories</li><li>Flow cytometry and cell sorting</li><li>Mass spectrometry for protein-level antigen validation</li><li>Immunohistochemistry for antigen expression</li><li>Preclinical animal facility for in vivo tumour models</li><li>High-performance computing for genomic and neo-antigen pipelines</li></ul>",
+      "size": "20-100",
+      "type": "<ul><li>University research centre</li></ul>",
+      "primaryCentreID": 442089,
+      "primeryCentreName": "Australian mRNA Cancer Vaccine Hub",
+      "keywords": "mRNA cancer vaccine research; personalised cancer vaccines; neoantigen prediction and validation; lipid nanoparticle delivery; cancer immunotherapy research; Australian cancer vaccine hub",
+      "leading": "",
+      "special": "",
+      "achievments": "<ul><li data-olk-copy-source=\"MessageBody\">PaedNEO-VAX, a world-first trial of personalised mRNA vaccines for children with brain tumours, $2.578 million, 8 hospitals. <a href=\"https://news.uq.edu.au/2026-02-australian-trial-personalised-vaccines-treat-children-deadly-brain-cancers\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\" data-linkindex=\"0\" title=\"https://news.uq.edu.au/2026-02-australian-trial-personalised-vaccines-treat-children-deadly-brain-cancers\">UQ News</a></li><li>Established Australia's first laboratory dedicated to designing, manufacturing and delivering personalised mRNA cancer vaccines. <a href=\"https://news.uq.edu.au/2024-12-09-getting-personal-fight-against-cancer\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\" data-linkindex=\"1\" title=\"https://news.uq.edu.au/2024-12-09-getting-personal-fight-against-cancer\">UQ News</a></li><li>Tour de Cure funding for synthetic cytokine and treatment-resistant cancer vaccine projects within the Hub. <a href=\"https://aibn.uq.edu.au/article/2026/07/harnessing-mrna-more-targeted-cancer-treatment\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\" data-linkindex=\"2\" title=\"https://aibn.uq.edu.au/article/2026/07/harnessing-mrna-more-targeted-cancer-treatment\">AIBN News</a></li></ul>",
+      "scientists": "",
+      "latitude": -27.500503346270637,
+      "longitude": 153.01294572531975,
+      "address": "Building 75, Cnr College Rd &, Cooper Rd, St Lucia QLD 4067",
+      "otherAddress": "",
+      "thumbnailUrl": "",
+      "thumbnailCaption": ""
     },
     {
       "id": 304666,
