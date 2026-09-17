@@ -3688,6 +3688,20 @@
     },
     "url": "/mima-teti-camping-area"
   },
+  "150079": {
+    "PrimaryImage": {
+      "FullSizeImage": "//images.bookeasy.com.au/website/thumbs/600_450_crop/bookeasylite/bagurru-primary-a806ed5a-eb12-4347-ad39-2aabe621fbb9.jpg",
+      "ThumbnailImage": "//images.bookeasy.com.au/website/thumbs/600_450_crop/bookeasylite/bagurru-primary-a806ed5a-eb12-4347-ad39-2aabe621fbb9.jpg"
+    },
+    "url": "/ba-gurru-camping-area-numbered-sites"
+  },
+  "150080": {
+    "PrimaryImage": {
+      "FullSizeImage": "//images.bookeasy.com.au/website/thumbs/600_450_crop/bookeasylite/bagurrutent-primary-460d41b5-6a8a-451b-8a25-203afae65fbd.jpg",
+      "ThumbnailImage": "//images.bookeasy.com.au/website/thumbs/600_450_crop/bookeasylite/bagurrutent-primary-460d41b5-6a8a-451b-8a25-203afae65fbd.jpg"
+    },
+    "url": "/ba-gurru-camping-area-tent-only-sites"
+  },
   "150098": {
     "PrimaryImage": {
       "FullSizeImage": "//images.bookeasy.com.au/website/thumbs/600_450_crop/bookeasylite/carnarvongorgehostarea-primary-e4b7e2a8-fded-4e7e-a42c-8f7da96c3edc.jpg",
