@@ -1,5 +1,5 @@
 {
-  "count": 330,
+  "count": 329,
   "records": [
     {
       "id": 356931,
@@ -3722,37 +3722,6 @@
       "thumbnailCaption": "Researchers discuss work at laboratory bench"
     },
     {
-      "id": 305303,
-      "directoryID": "",
-      "centre": "Centre for Water in the Minerals Industry",
-      "url": "https://science.qld.gov.au/research/capability-directory/centre-water-in-minerals-industry",
-      "issued": "2023-03-01 15:47:42",
-      "published": "2025-06-04",
-      "description": "CWiMI researchers are focused on supporting and improving the environmental performance of the mining and mineral industry.",
-      "overview": "<p>CWiMI is committed to supporting and improving the environmental performance of the mining sector through:</p><ul><li>Capacity building, professional development, technical support and independent reviews, capitalising on the knowledge and practices that have improved over the last 20 years</li><li>A continuing focus on technical cutting-edge research integrating multiple disciplines, providing &ldquo;one-stop-shop&rdquo; solutions to the environmental management challenges of the mining and minerals industry</li><li>A unique approach to the development of sustainability strategies, which draws from research on high reliability organisations, outlining the importance of incorporating environmental performance in the collective mindset of the industry.</li></ul><p>Our technical disciplines include hydrology, hydrogeology, soil hydrology, geochemistry, water resource engineering, spatial science, data science, climate science and aquatic ecology.</p>",
-      "formerName": "",
-      "parentOrg": "The Sustainable Minerals Institute, The University of Queensland",
-      "centreUrl": "https://smi.uq.edu.au/cwimi",
-      "sectors": "environment-nature; mining-resources",
-      "strengths": "<ul><li>hydrology</li><li>hydrogeology</li><li>soil hydrology</li><li>geochemistry</li><li>water resource engineering</li><li>spatial science</li><li>data science</li><li>climate science</li><li>aquatic ecology</li><li>modelling</li><li>erosion and sediment export.</li></ul>",
-      "equipment": "<ul><li>Environmental field-scale facility at Pinjarra Hills.</li></ul>",
-      "size": "0-20",
-      "type": "<ul><li>University research centre</li></ul>",
-      "primaryCentreID": 305303,
-      "primeryCentreName": "Centre for Water in the Minerals Industry",
-      "keywords": "environmental management; mining, acid metalliferous drainage, AMD, ARD, post mining, high reliability organisations, water accounting, energy transition, renewable energy, biofuel, climate change, modelling, geo-environmental risks, geophysics,",
-      "leading": "leadingminingresourcesresearch - leadingengineeringresearch",
-      "special": "bioeconomy",
-      "achievments": "<ul><li><a href=\"https://www.uq.edu.au/news/article/2024/09/researchers-drill-down-mine-waste-monitoring-using-drones-and-sensors\">Developing new ways to monitor mine waste using drones and ground sensors</a></li><li><a href=\"https://smi.uq.edu.au/article/2024/03/participatory-planning-delivers-better-infrastructure-outcomes-water-scarce-regions\">Developed participatory planning framework to maximise the benefits of shared water infrastructure in water-scarce mining regions</a></li><li><a href=\"https://smi.uq.edu.au/article/2023/12/researchers-improve-fundamental-knowledge-erosion-risks-great-barrier-reef-catchments\">Develop and validate technical guidelines to improve erosion and sediment control management in Great Barrier Reef catchments</a></li><li>In conjunction with the&nbsp;<a href=\"https://www.minerals.org.au\">Minerals Council of Australia</a> (MCA), developed a <a href=\"https://stories.uq.edu.au/smi/2022/water-accounting-framework-from-whiteboard-plan-to-world-standard/index.html\">water accounting framework to standardise water reporting in the mining industry</a></li><li>CWiMIs one of the only research groups that applies High Reliability Organisational (HRO) thinking to enhance sustainability outcomes.</li></ul>",
-      "scientists": "<ul><li><a href=\"https://about.uq.edu.au/experts/5782\">Professor Claire Côte</a>&mdash;international expert in mine water and environmental management and part of the Leading for High Reliability Centre at UQ.</li><li><a href=\"https://about.uq.edu.au/experts/3004\">Professor Neil McIntyre</a>&mdash;focus on water resource systems modelling, impacts of mining on water resources, remote sensing applications in hydrology, stochastic hydrology and climate change.</li><li><a href=\"https://about.uq.edu.au/experts/856\">Associate Professor Mansour Edraki</a>&mdash;research focus on understanding and predicting the source, transformations and fate of contaminants, particularly acid and metalliferous drainage (AMD), in mining.</li><li><a href=\"https://about.uq.edu.au/experts/31570\">Dr Robynne Chrystal</a>&mdash;research focuson developing novel solutions for the sustainable management of water and associated aquatic ecosystems.</li><li><a href=\"https://about.uq.edu.au/experts/36851\">Dr Louisa Rochford</a>&mdash;interest in the sustainable management of water resources in the mining industry, with expertise in environmental impact assessment.</li></ul>",
-      "latitude": -27.500486,
-      "longitude": 153.014329,
-      "address": "Sustainable Minerals Institute, Sir James Foots Building 47A, St Lucia QLD 4072",
-      "otherAddress": "",
-      "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0030/376473/centre-water-in-minerals-industry.jpg",
-      "thumbnailCaption": ""
-    },
-    {
       "id": 305235,
       "directoryID": "",
       "centre": "Centre for Work Organisation and Wellbeing",
@@ -5919,8 +5888,8 @@
       "longitude": 151.930675,
       "address": "Building Q, University of Southern Queensland, West Street, Toowoomba QLD 4350",
       "otherAddress": "",
-      "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0016/206611/105007-ilse.jpg",
-      "thumbnailCaption": "Researchers examining a netted experimental crop plant"
+      "thumbnailUrl": "https://science.qld.gov.au/__data/assets/image/0028/444349/planteye-image-web.gif",
+      "thumbnailCaption": "PlantEye 3D Multispectral Scanner"
     },
     {
       "id": 360351,
